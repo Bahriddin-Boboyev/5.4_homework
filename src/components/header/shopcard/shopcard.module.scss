@@ -1,0 +1,95 @@
+.box{
+  margin-top: 120px;
+}
+.texReact{
+  padding-top: 100px;
+  padding-bottom: 20px;
+  display: flex;
+  align-items: center;
+  .h3{
+    margin-right: 22%;
+  }
+}
+.texReact2{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  column-gap: 100px;
+}
+.hr1{
+  margin-bottom: 60px;
+}
+.cards{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.box2{
+  width: 500px;
+  display: flex;
+  align-items: center;
+}
+.cardsIcon{
+  margin-right: 30px;
+  margin-left: 20px;
+}
+.img{
+  margin-right: 30px;
+}
+.box3{
+  width: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.count{
+  background: #F6F7F8;
+}
+.minus{
+  cursor: pointer;
+  border: transparent;
+  color: #33A0FF;
+  padding: 3px 6px;
+  font-size: 18px;
+  font-weight: 600;
+margin-right: 15px;
+
+}
+.plus{
+  cursor: pointer;
+  border: transparent;
+  color: #33A0FF;
+  padding: 3px 6px;
+  font-size: 18px;
+  font-weight: 600;
+margin-left: 15px;
+
+}
+span{
+font-size: 18px;
+line-height: 22px;
+color: #262626;
+}
+.hr{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.remove{
+  cursor: pointer;
+}
+.img img{
+  width: 137px;
+  height: 94px;
+  object-fit: contain;
+}
+.cards{
+  margin-bottom: 20px;
+}
+.notfound{
+  text-align: center;
+  opacity: 0.8;
+}
+.total{
+  padding-top: 20px;
+  text-align: center;
+}

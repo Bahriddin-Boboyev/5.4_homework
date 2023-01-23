@@ -1,0 +1,80 @@
+
+
+.nav{
+  padding-top: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
+
+}
+.box_right h1{
+  width: 206px;
+height: 60px;
+left: 118px;
+top: 49px;
+font-family: 'Syne';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+color: #000000;
+}
+.list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.item a{
+  width: 97px;
+  height: 26px;
+  left: 865px;
+  top: 64px;
+  margin-left: 34px;
+  
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 26px;
+  color: #000000;
+}
+.btn{
+  cursor: pointer;
+  background-color: transparent;
+  border: transparent;
+  margin-left: 21px;
+}
+.btn img {
+  width: 31px;
+height: 31px;
+left: 1182px;
+top: 62px;
+}
+.korzinkaCount{
+  background-color: red;
+  color: white;
+  font-size: 17px;
+  border: transparent;
+  border-radius: 5px;
+  padding: 3px 4px;
+  cursor: pointer;
+}
+.home, .btn5{
+  transition: ease 0.8s;
+}
+.btn5{
+  cursor: pointer;
+  background-color: transparent;
+  border: transparent;
+  margin-left: 21px;
+}
+.home:hover{
+  transform: scale(0.9);
+}
+.btn5:hover{
+  transform: scale(0.9);
+}
